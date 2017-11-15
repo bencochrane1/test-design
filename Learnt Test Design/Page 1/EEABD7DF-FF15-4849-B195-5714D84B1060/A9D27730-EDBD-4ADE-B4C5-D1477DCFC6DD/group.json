@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "A9D27730-EDBD-4ADE-B4C5-D1477DCFC6DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 1147,
+    "x": 261,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "81733167-E9CE-4325-AE97-878A0FE530C5"
+    },
+    {
+      "class": "group",
+      "id": "A392336D-0902-488C-B900-5370C52FFF9A"
+    },
+    {
+      "class": "group",
+      "id": "0D63D26B-5DD8-46AB-80EA-623EECC232F4"
+    }
+  ],
+  "name": "Page - Courses",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

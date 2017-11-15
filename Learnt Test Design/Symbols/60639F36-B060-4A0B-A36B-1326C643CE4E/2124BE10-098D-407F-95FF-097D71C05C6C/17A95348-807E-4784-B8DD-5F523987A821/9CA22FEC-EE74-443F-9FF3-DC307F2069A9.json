@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9CA22FEC-EE74-443F-9FF3-DC307F2069A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 70,
+    "x": 976,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Components/Buttons - Default/📱Dropdown Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "9CA22FEC-EE74-443F-9FF3-DC307F2069A9",
+  "overrides": {
+    "8CF87522-60D0-4A2D-95EC-9F7914E1EB4D": {
+      "symbolID": "719BED68-5A26-42FA-AB7A-4BD40E87621E"
+    },
+    "C8BB133F-A593-4F3A-8EE7-2B61933B51B2": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DEB53ABA-191A-4B38-8276-B3F2FEBB1852",
+  "verticalSpacing": 0
+}

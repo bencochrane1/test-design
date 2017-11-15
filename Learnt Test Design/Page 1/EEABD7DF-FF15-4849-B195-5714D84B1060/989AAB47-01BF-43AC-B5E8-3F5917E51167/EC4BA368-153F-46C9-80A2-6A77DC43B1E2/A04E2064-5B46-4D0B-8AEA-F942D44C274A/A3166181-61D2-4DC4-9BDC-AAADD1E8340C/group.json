@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "A3166181-61D2-4DC4-9BDC-AAADD1E8340C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 71,
+    "x": 249,
+    "y": 33
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9BE1B7AF-A058-42BE-9CDC-3925F8DE3899"
+    },
+    {
+      "class": "text",
+      "id": "A3D61C63-E38C-44E3-B8FF-402F92C81480"
+    },
+    {
+      "class": "group",
+      "id": "B8FA2916-DE0E-4A27-BA97-35B52C7F04A3"
+    }
+  ],
+  "name": "Button outline - focus Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "4B528287-CE94-4879-94DC-7973F2EED748"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "D5889B06-C663-4447-AD17-D2D44D937C90",
+        "version": 1
+      }
+    }
+  }
+}

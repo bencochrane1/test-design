@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "BFBA66EB-3B48-41BC-801F-F8094C76631E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 183,
+    "width": 1147,
+    "x": 0,
+    "y": 1.040229885057471
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3A378905-A2F4-4D9B-82C0-43B569FEAFB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C5D6168-AF0E-4A19-BF0A-7770A7294851"
+    }
+  ],
+  "name": "Sales Copy 8",
+  "nameIsFixed": true,
+  "originalObjectID": "BFBA66EB-3B48-41BC-801F-F8094C76631E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
